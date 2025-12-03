@@ -1,22 +1,8 @@
-## Hi there 👋
+### Hi there, I'm Hevit0! 👋
 
-🔭 I’m currently working on my Java-RPG-Inventory.
+I'm a 19 y/o Computer Science student on a mission to master the stack from the Kernel to the Cloud.
 
-🌱 I’m currently learning : Linux, Java.
-
-📫 How to reach me: andreisebastian11@gmail.com
-
-<!--
-**Hevit0/Hevit0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I’m currently working on:** Building robust Java OOP systems and automating Linux tasks.
+- 🌱 **I’m currently learning:** Advanced Calculus, Linux SysAdmin, and Java Collections.
+- ⚡ **Fun fact:** I believe in building systems that work while you sleep.
+- 🎯 **Goals:** DevOps & Backend Engineering Mastery.
