@@ -1,4 +1,7 @@
 ## Hi there 👋
+🔭 I’m currently working on my Java-RPG-Inventory.
+🌱 I’m currently learning : Linux, Java.
+📫 How to reach me: andreisebastian11@gmail.com
 
 <!--
 **Hevit0/Hevit0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
