@@ -1,6 +1,9 @@
 ## Hi there 👋
+
 🔭 I’m currently working on my Java-RPG-Inventory.
+
 🌱 I’m currently learning : Linux, Java.
+
 📫 How to reach me: andreisebastian11@gmail.com
 
 <!--
